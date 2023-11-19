@@ -18,7 +18,7 @@ namespace Tyuiu.KondrakovAA.Sprint5.Task1.V6
             Console.WriteLine("* Тема: Класс File. Запись данных в текстовый фай                         *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #30                                                             *");
-            Console.WriteLine("* Выполнил: Аширбакиев Алмаз Ринатович | СМАРТб-23-1                      *");
+            Console.WriteLine("* Выполнил: Кондраков Александр Артемович | СМАРТб-23-1                   *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("***************************************************************************");
